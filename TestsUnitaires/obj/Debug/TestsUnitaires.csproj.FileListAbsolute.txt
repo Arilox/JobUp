@@ -1,0 +1,17 @@
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\TestsUnitaires.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\TestsUnitaires.pdb
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\obj\Debug\TestsUnitaires.csprojAssemblyReference.cache
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\obj\Debug\TestsUnitaires.csproj.CoreCompileInputs.cache
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\obj\Debug\TestsUnitaires.csproj.CopyComplete
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\obj\Debug\TestsUnitaires.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\TestsUnitaires\obj\Debug\TestsUnitaires.pdb
