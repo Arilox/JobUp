@@ -1,0 +1,14 @@
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\Database.mdf
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\Database_log.ldf
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\Modele.dll.config
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\Modele.dll
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\Modele.pdb
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\EntityFramework.dll
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\EntityFramework.xml
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.csproj.CopyComplete
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.dll
+C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.pdb

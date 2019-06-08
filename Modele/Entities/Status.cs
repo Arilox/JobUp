@@ -1,9 +1,15 @@
-﻿namespace Modele.Entities
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Modele.Entities
 {
-    public enum Status
+    public class Status
     {
-        Accepted,
-        Waiting,
-        Refused
+        [Key]
+        [Column("STA_ID")]
+        public int Id { get; set; }
+
+        [Column("STA_LIBELE")]
+        public string Libele { get; set; }
     }
 }

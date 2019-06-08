@@ -21,6 +21,6 @@ namespace Modele.Entities
         public string Intitule { get; set; }
 
         [Column("EXP_DATE")]
-        public DateTime Date { get; set; }
+        public int Date { get; set; }
     }
 }

@@ -23,21 +23,9 @@ namespace Modele.Entities
         public DateTime DateNaissance { get; set; }
 
         [Column("EMP_ANVIENNETE")]
-        public TimeSpan Ancienete { get; set; }
+        public float Ancienete { get; set; }
 
         [Column("EMP_BIOGRAPHIE")]
         public string Biographie { get; set; }
     }
-
-    public class EmployeFluent : EntityTypeConfiguration<Employe>
-    {
-        public EmployeFluent()
-        {
-            ToTable("APP_EMPLOYE");
-            HasKey(c => c.Id);
-
-
-        }
-    }
-
 }

@@ -7,7 +7,7 @@ namespace Modele
     {
         public MappingMetierBase() : base("Database")
         {
-
+            
         }
 
         public DbSet<Employe> Employes { get; set; }
