@@ -11,7 +11,8 @@ namespace ASP.Controllers
 {
     [BindProperties]
     public class HomeController : Controller
-    {        
+    {
+        public MappingMetierBase db {get; set;} = new MappingMetierBase();
         public System.Web.Mvc.ActionResult Index()
         {
             return View();
