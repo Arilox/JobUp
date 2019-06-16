@@ -27,7 +27,10 @@ namespace Modele.Entities
         [Column("OFF_STATUT")]
         public Boolean Statut { get; set; }
 
-        [Column("OFF_RESPONSABLE")]
-        public Type Responsable { get; set; }
+        [Column("RESP_ID")]
+        public int ResponsableId { get; set; }
+
+        [ForeignKey("ResponsableId")]
+        public Employe Responsable { get; set; }
     }
 }

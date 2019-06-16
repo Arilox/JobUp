@@ -7,23 +7,33 @@ using System.ServiceModel.Web;
 using System.Text;
 
 // REMARQUE : vous pouvez utiliser la commande Renommer du menu Refactoriser pour changer le nom de classe "Service" dans le code, le fichier svc et le fichier de configuration.
-public class Service : IService
+public class Service : IOffreService
 {
-	public string GetData(int value)
-	{
-		return string.Format("You entered: {0}", value);
-	}
-
-	public CompositeType GetDataUsingDataContract(CompositeType composite)
+	public Offre GetDataUsingDataContract(Offre composite)
 	{
 		if (composite == null)
 		{
 			throw new ArgumentNullException("composite");
 		}
-		if (composite.BoolValue)
+		if (composite.Id == 1)
 		{
-			composite.StringValue += "Suffix";
+			composite.Intitule += "Suffix";
 		}
 		return composite;
 	}
+
+    public Offre GetOffre(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public string GetOffres()
+    {
+        throw new NotImplementedException();
+    }
+
+    public string GetOffreTitle(int id)
+    {
+        throw new NotImplementedException();
+    }
 }

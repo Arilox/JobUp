@@ -15,3 +15,5 @@ C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\CLI\obj\Debug\CLI.csproj.CoreC
 C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\CLI\obj\Debug\CLI.csproj.CopyComplete
 C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\CLI\obj\Debug\CLI.exe
 C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\CLI\obj\Debug\CLI.pdb
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\CLI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\CLI\bin\Debug\Newtonsoft.Json.xml

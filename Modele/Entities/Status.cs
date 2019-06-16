@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Modele.Entities
 {
+    [Table("APP_STATUS")]
     public class Status
     {
         [Key]

@@ -15,14 +15,13 @@ namespace Modele.Entities
         [Column("EMP_NOM")]
         public string Nom { get; set; }
 
-
         [Column("EMP_PRENOM")]
         public string Prenom { get; set; }
 
         [Column("EMP_DATENAISSANCE")]
         public DateTime DateNaissance { get; set; }
 
-        [Column("EMP_ANVIENNETE")]
+        [Column("EMP_ANCIENNETE")]
         public float Ancienete { get; set; }
 
         [Column("EMP_BIOGRAPHIE")]

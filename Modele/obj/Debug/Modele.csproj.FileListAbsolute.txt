@@ -12,3 +12,5 @@ C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.csproj
 C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.csproj.CopyComplete
 C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.dll
 C:\Users\doria\source\repos\JobUp.BLANCHARDDorian\Modele\obj\Debug\Modele.pdb
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\Modele\bin\Debug\Newtonsoft.Json.dll
+C:\Users\doria\source\repos\Jobup.BLANCHARDDorian\Modele\bin\Debug\Newtonsoft.Json.xml
