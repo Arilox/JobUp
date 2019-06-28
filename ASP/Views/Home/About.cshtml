@@ -1,7 +1,40 @@
 ﻿@{
-    ViewBag.Title = "About";
+    ViewBag.Title = "Liste des Offres";
 }
-<h2>@ViewBag.Title.</h2>
+<h2>@ViewBag.Title</h2>
 <h3>@ViewBag.Message</h3>
 
-<p>Use this area to provide additional information.</p>
+<div>
+
+    @foreach (Modele.Entities.Offre offre in @Model)
+    {
+        if (@offre.Statut == false)
+        {
+            <div style="display: flex; flex-direction: column; margin: 50px;">
+                <div><b>@offre.Intitule</b></div>
+                <div>@offre.Description</div>
+                <div>@offre.Date.ToShortDateString()</div>
+                <div>@offre.Salaire €</div>
+                <div>@offre.ResponsableId</div>
+                <button onclick="postuler(@offre.Id)">
+                    Postulez :)
+                </button>
+            </div>
+        }
+
+    }
+
+</div>
+
+<script>
+     function postuler(id){
+            jQuery.ajax({
+                url: "/home/postuler/" + id,
+                context: document.body
+            }).done(function () {
+                alert("Votre postulation à bien étée prise en compte ! :)");
+            }).fail(function () {
+                alert("Vous avez déjà postulez pour cette offre ! x)");
+            });
+        }
+</script>
